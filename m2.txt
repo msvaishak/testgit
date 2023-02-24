@@ -1,0 +1,17 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 4211-0949
+
+ Directory of C:\Users\MSVaishak\Documents\project
+
+02/24/2023  04:39 PM    <DIR>          .
+02/23/2023  04:32 PM    <DIR>          ..
+02/23/2023  04:57 PM               459 agshgs.txt
+02/23/2023  05:01 PM               511 ajhsjha.txt
+02/24/2023  02:28 PM             1,026 d
+02/24/2023  02:24 PM    <DIR>          gitdemo1
+02/23/2023  04:44 PM               408 index.html
+02/24/2023  04:39 PM                 0 m2.txt
+02/24/2023  12:44 PM               560 test.txt
+02/23/2023  04:46 PM                22 text.txt
+               7 File(s)          2,986 bytes
+               3 Dir(s)  434,572,386,304 bytes free
